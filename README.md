@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Administrador - Dashboard] --> B[Cartas de Inicio]
     A --> C[Cartas de Fin]
@@ -29,4 +30,4 @@ flowchart TD
     D1a --> D1b[Carta de Inicio]
     D1a --> D1c[Carta de Fin]
     D1a --> D1d[Evidencias]
-
+```
